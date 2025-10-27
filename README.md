@@ -86,6 +86,9 @@ The server will start on `http://localhost:3000` (or the port specified in the `
 
 **Adnan Ahmad**
 
+## Preview
+![main image](image.png)
+![purchased](image-1.png)
 ## License
 
 ISC License
