@@ -1,0 +1,13 @@
+{
+  "name": "gold-digger",
+  "version": "1.0.0",
+  "description": "a platform for gold exchange",
+  "license": "ISC",
+  "author": "Adnan Ahmad",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  }
+}
